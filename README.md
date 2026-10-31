@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Abdella
+# 👋 Hi, I'm Abdellah Aregaw!
 
 ### Full-Stack Developer | MERN Stack | Software Engineering Student
 
