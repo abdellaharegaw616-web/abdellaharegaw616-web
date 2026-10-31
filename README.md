@@ -1,10 +1,10 @@
-# 👋 Hi, I'm Abdellah Aregaw
+# 👋 Hi, I'm Abdella
 
 ### Full-Stack Developer | MERN Stack | Software Engineering Student
 
 I'm a Software Engineering student at **Arba Minch University, Ethiopia**, passionate about building modern web applications that solve real-world problems.
 
-My primary focus is full-stack development with the **MERN stack (MongoDB, Express.js, React.js, and Node.js)**. I enjoy designing user-friendly interfaces, developing backend APIs, managing databases, and improving application security, testing, and reliability.
+My primary focus is full-stack development with the **MERN stack (MongoDB, Express.js, React.js, and Node.js)**. I enjoy designing user-friendly interfaces, developing backend APIs, managing databases, and turning ideas into working digital products.
 
 I'm continuously learning and working toward becoming a well-rounded software engineer who can build, test, deploy, and maintain production-quality applications.
 
@@ -27,9 +27,12 @@ I'm continuously learning and working toward becoming a well-rounded software en
   <a href="https://www.linkedin.com/" >
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  <a href="https://portfolio-taffy-757b20.netlify.app" >
+    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
 </p>
 
-**Portfolio:** Add your deployed portfolio URL here  
+**Portfolio:** https://portfolio-taffy-757b20.netlify.app  
 **Email:** Add your preferred professional email here
 
 ---
@@ -115,7 +118,7 @@ A MERN-stack e-commerce project focused on building a convenient online shopping
 ## 📈 GitHub Statistics
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdellaharegaw616-web&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Abdellah's GitHub statistics"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abdellaharegaw616-web&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Abdella's GitHub statistics"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdellaharegaw616-web&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages"/>
 </p>
 
