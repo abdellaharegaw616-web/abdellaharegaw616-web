@@ -28,7 +28,7 @@ I'm continuously learning and working toward becoming a well-rounded software en
   <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://strong-lokum-ee7626.netlify.app/" target="_blank">
+  <a href="https://official-portfolio-ee762.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
   </a>
   <a href="mailto:abdellaj636@gmail.com">
@@ -36,7 +36,7 @@ I'm continuously learning and working toward becoming a well-rounded software en
   </a>
 </p>
 
-**Portfolio:** https://strong-lokum-ee7626.netlify.app/  
+**Portfolio:** https://official-portfolio-ee762.netlify.app/  
 **Email:** abdellaj636@gmail.com
 
 
