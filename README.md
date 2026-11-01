@@ -18,22 +18,27 @@ I'm continuously learning and working toward becoming a well-rounded software en
 
 ---
 
+
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://github.com/abdellaharegaw616-web">
+  <a href="https://github.com/abdellaharegaw616-web" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="https://www.linkedin.com/" >
+  <a href="https://www.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href=" [(https://strong-lokum-ee7626.netlify.app/) >
-    <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  <a href="https://strong-lokum-ee7626.netlify.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="mailto:abdellaj636@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
-**Portfolio:** [(https://strong-lokum-ee7626.netlify.app/)
+**Portfolio:** https://strong-lokum-ee7626.netlify.app/  
 **Email:** abdellaj636@gmail.com
+
 
 ---
 
