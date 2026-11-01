@@ -27,12 +27,12 @@ I'm continuously learning and working toward becoming a well-rounded software en
   <a href="https://www.linkedin.com/" >
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
-  <a href="https://portfolio-taffy-757b20.netlify.app" >
+  <a href="[https://portfolio-taffy-757b20.netlify.app"](https://strong-lokum-ee7626.netlify.app/) >
     <img src="https://img.shields.io/badge/Portfolio-FF6B6B?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
-**Portfolio:** https://portfolio-taffy-757b20.netlify.app  
+**Portfolio:** [(https://strong-lokum-ee7626.netlify.app/)](https://strong-lokum-ee7626.netlify.app/)
 **Email:** Add your preferred professional email here
 
 ---
